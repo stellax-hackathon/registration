@@ -1,0 +1,21 @@
+name: Auto Label Registration Issues
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  add-label:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check if issue is a registration
+        if: ${{ github.event.issue.title && startsWith(github.event.issue.title, '[REGISTRATION]') }}
+        run: echo "Registration issue detected."
+
+      - name: Add 'registration' label
+        if: ${{ github.event.issue.title && startsWith(github.event.issue.title, '[REGISTRATION]') }}
+        uses: actions-ecosystem/action-add-labels@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          labels: 'registration'
