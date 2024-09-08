@@ -6,7 +6,7 @@ Welcome to the StellaX Hackathon Registration! To participate in the hackathon, 
 ## Registration Steps
 
 1. **Fork this repository** to your GitHub account.
-2. **Create a new issue** using the "Registration" template.
+2. **Create a new issue** using the `./.github/ISSUE_TEMPLATE/registration.md` template.
 3. Fill in your details:
    - **Full Name**
    - **GitHub Username**
