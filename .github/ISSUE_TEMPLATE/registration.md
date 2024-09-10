@@ -1,7 +1,7 @@
 ---
 name: Registration
 about: Register for the StellaX Hackathon
-title: "[REGISTRATION] - Full Name"
+title: "[REGISTRATION] - S K Parthiv Pedpati"
 labels: registration
 assignees: ''
 
@@ -9,16 +9,16 @@ assignees: ''
 
 ### Participant Information
 
-**Full Name:**
+**Full Name:** S K Parthiv Pedapati
 
-**GitHub Username:**
+**GitHub Username:** SKParthiv
 
-**Email Address:**
+**Email Address:** parthiv.sk.pedapati@gmail.com
 
-**Role Applying For (e.g., AI Engineer, Backend Engineer, AI Engineer Intern):**
+**Role Applying For (e.g., AI Engineer, Backend Engineer, AI Engineer Intern):** Back-End Engineer
 
-**Country of Residence:**
+**Country of Residence:** India
 
-**Why are you interested in this hackathon? (Briefly explain):**
+**Why are you interested in this hackathon? (Briefly explain):** I would like to participate in this hackathon to widen my perspective of things and see where I stand.
 
-**How did you hear about this hackathon?**
+**How did you hear about this hackathon?** I got to know about this from one my friends.
