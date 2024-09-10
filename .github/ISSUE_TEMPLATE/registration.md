@@ -1,7 +1,7 @@
 ---
 name: Registration
 about: Register for the StellaX Hackathon
-title: "[REGISTRATION] - S K Parthiv Pedpati"
+title: "[REGISTRATION] - S K Parthiv Pedapati"
 labels: registration
 assignees: ''
 
